@@ -1,4 +1,4 @@
-def turn count(board)
+def turn_count(board)
   moves = 0
   board.each do |square|
     if square == "O" || square ==
