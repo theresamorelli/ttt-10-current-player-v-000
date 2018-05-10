@@ -5,5 +5,4 @@ def turn count(board)
       X"
       moves += 1
     end
-  end
 end
